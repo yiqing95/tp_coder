@@ -1,0 +1,229 @@
+[ 2014-08-28T09:31:14+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000805s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011356s ]
+
+[ 2014-08-28T09:33:53+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000649s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013209s ]
+
+[ 2014-08-28T09:39:00+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000761s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009647s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 202 行.
+
+[ 2014-08-28T10:00:42+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.048493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.052969s ]
+
+[ 2014-08-28T10:02:36+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011419s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:02:54+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012814s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:02:57+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011931s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:03:02+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000959s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011892s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:03:03+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000705s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013873s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:03:06+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/testComposer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017461s ]
+ERR: SQLSTATE[HY000]: General error: 1 no such table: user
+
+[ 2014-08-28T10:55:28+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032633s ]
+
+[ 2014-08-28T10:56:05+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000706s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030287s ]
+
+[ 2014-08-28T10:57:25+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000951s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009033s ]
+
+[ 2014-08-28T10:58:37+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000687s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009029s ]
+
+[ 2014-08-28T11:00:41+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000649s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010162s ]
+
+[ 2014-08-28T11:01:15+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/goTest
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008620s ]
+
+[ 2014-08-28T11:04:43+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009456s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 202 行.
+
+[ 2014-08-28T11:06:34+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000799s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009406s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 203 行.
+
+[ 2014-08-28T11:07:20+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008463s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 204 行.
+
+[ 2014-08-28T11:07:35+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000933s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018503s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 204 行.
+
+[ 2014-08-28T11:07:41+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013075s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 204 行.
+
+[ 2014-08-28T11:07:51+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000745s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009859s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 204 行.
+
+[ 2014-08-28T11:09:37+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000742s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009581s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 209 行.
+
+[ 2014-08-28T11:09:52+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go/method=user.helloTo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000996s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010177s ]
+NOTIC: [8] Undefined index: method D:\www\ci-github\thinkphp\Application\Api\Base\Runner.class.php 第 209 行.
+
+[ 2014-08-28T11:10:01+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go/method/user.helloTo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010702s ]
+
+[ 2014-08-28T11:10:49+08:00 ] 127.0.0.1 /ci-github/thinkphp/Api/v1/go/method/user.helloTo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000951s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008210s ]
+

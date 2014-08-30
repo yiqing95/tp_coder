@@ -1,0 +1,90 @@
+[ 2014-08-25T08:21:16+08:00 ] 127.0.0.1 /ci-github/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000840s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007543s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001955s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059684s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007756s ]
+
+[ 2014-08-25T14:03:17+08:00 ] 127.0.0.1 /ci-github/thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000751s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009624s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.030107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036040s ]
+
+[ 2014-08-25T14:03:23+08:00 ] 127.0.0.1 /ci-github/thinkphp/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007402s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008711s ]
+
+[ 2014-08-25T14:03:31+08:00 ] 127.0.0.1 /ci-github/thinkphp/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010715s ]
+ERR: 无法加载控制器:Test
+
+[ 2014-08-25T14:03:39+08:00 ] 127.0.0.1 /ci-github/thinkphp/test/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000937s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009076s ]
+ERR: 无法加载控制器:Test
+
+[ 2014-08-25T14:05:20+08:00 ] 127.0.0.1 /ci-github/thinkphp/Test/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000705s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010513s ]
+ERR: 无法加载控制器:Test
+
+[ 2014-08-25T14:38:50+08:00 ] 127.0.0.1 /ci-github/thinkphp/Test/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000798s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008114s ]
+ERR: 无法加载控制器:Test
+
