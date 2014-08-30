@@ -217,7 +217,7 @@ class Runner
          */
         $handlerObj = current($handler);
         $handlerMethodName = end($handler);
-        if (method_exists(current($handlerObj), 'verbs') || $handlerObj instanceof Service) {
+        if (method_exists($handlerObj, 'verbs') || $handlerObj instanceof Service) {
             // FixMe 这里用的抽象类 如果用接口标识是否更好些？
             $methodVerbMap = call_user_func(array($handlerObj, 'verbs'));
             // $handlerObj->verbs();
